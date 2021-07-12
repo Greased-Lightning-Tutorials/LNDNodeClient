@@ -5,9 +5,9 @@ namespace LNDNodeClient.LightningHelpers
 {
     public class Helpers
     {
-        private readonly string pathToMacaroon = @" ADMIN MACAROON PATH HERE ";
-        private readonly string pathToSslCertificate = @" SSL CERTIFICATE PATH HERE";
-        private readonly string GRPCHost = " GRPC HOST HERE";
+        private readonly string pathToMacaroon = @" PATH TO ADMIN MACAROON ";
+        private readonly string pathToSslCertificate = @" PATH TO SSL CERTIFICATE ";
+        private readonly string GRPCHost = " GRPC HOST ";
         public Lnrpc.Lightning.LightningClient GetClient()
         {
             var sslCreds = GetSslCredentials();
