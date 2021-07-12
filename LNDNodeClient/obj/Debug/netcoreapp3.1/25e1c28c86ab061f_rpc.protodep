@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Grpc/Rpc.cs \
+obj\Debug\netcoreapp3.1\Grpc/RpcGrpc.cs: Grpc/rpc.proto

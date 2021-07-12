@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lfjEpqmJ24i7KJGe75whAcNv3KvYfLxi9dgdlZpXrK+NEbt77lyEIDGPOR8PWVpSVt4ezg8Es20fZ+aWofrbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrpin\\source\\repos\\LNDNodeClient\\LNDNodeClient\\LNDNodeClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrpin\\.nuget\\packages\\google.protobuf\\3.17.3\\google.protobuf.3.17.3.nupkg.sha512",
+    "C:\\Users\\mrpin\\.nuget\\packages\\grpc.core\\2.38.1\\grpc.core.2.38.1.nupkg.sha512",
+    "C:\\Users\\mrpin\\.nuget\\packages\\grpc.core.api\\2.38.1\\grpc.core.api.2.38.1.nupkg.sha512",
+    "C:\\Users\\mrpin\\.nuget\\packages\\grpc.tools\\2.38.1\\grpc.tools.2.38.1.nupkg.sha512",
+    "C:\\Users\\mrpin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\mrpin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\mrpin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
